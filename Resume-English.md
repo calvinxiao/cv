@@ -1,4 +1,4 @@
-# 肖嘉炜 Calvin Xiao Resume - Full-Stack Engineer
+# 肖嘉炜 Calvin Xiao Resume - Engineer
 
 `Email: calvin325@gmail.com` | `Wechat: xiaojiawei677312` | `Github: github.com/calvinxiao` | `Twitter: CalvinLV`
 
